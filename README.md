@@ -11,12 +11,12 @@ Hello 1ndignant  here!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ndignant&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-###> Socials
+### > Socials
 
   <a href="https://instagram.com/yansantos2_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-santos-7513a1244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-###> Skills
+### > Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
