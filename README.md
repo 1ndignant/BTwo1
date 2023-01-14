@@ -1,10 +1,13 @@
-Hello B21 here!
-==========================
+<div align="center">
+<h1> Hello! B21 Here!.</h1> 
+</div>
+
 
 * 🌍  Brazilian, Rio de Janeiro
 * 🖥️  Portfolio? Under construction 😁
 * 🧠  I'm learning Front-End Web Development
 * 🤝  I'm open to collaborating on anything :D
+
 
 <div align="center">
   <a href="https://github.com/B21q">
