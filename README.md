@@ -1,4 +1,4 @@
-Hello B21  ahere
+Hello B21  here
 ==========================
 
 * 🌍  Brazilian, Rio de Janeiro
@@ -7,9 +7,9 @@ Hello B21  ahere
 * 🤝  I'm open to collaborating on anything :D
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1ndignant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ndignant&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/B21q">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B21q&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B21q&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div align="center">
