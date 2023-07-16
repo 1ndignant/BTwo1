@@ -1,4 +1,3 @@
-<div align="center">
 <h3> &nbsp; About </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -37,4 +36,3 @@
 
 <br/>
 <br/>
-</div>
