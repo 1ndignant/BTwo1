@@ -10,8 +10,10 @@
   ![React](https://img.shields.io/badge/-React-121013?style=for-the-badge&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-121013?style=for-the-badge&logo=react)
   ![Nextjs](https://img.shields.io/badge/next.js-121013?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-121013?style=for-the-badge&logo=tailwind-css)
   ![Typescript](https://img.shields.io/badge/TypeScript-121013?style=for-the-badge&logo=typescript)
-  ![Rust](https://img.shields.io/badge/Rust-121013?style=for-the-badge&logo=rust)
+  ![Rust](https://img.shields.io/badge/Rust-121013?style=for-the-badge&logo=rust&logoColor=F75208)
+  ![Linux](https://img.shields.io/badge/Linux-121013?style=for-the-badge&logo=linux&logoColor=FFC20B)
   <br/>
   
 **DevOps**
@@ -24,8 +26,8 @@
 
 **Development Tools**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-121013?style=for-the-badge&logo=visual-studio-code)
-  ![Neovim](https://img.shields.io/badge/NeoVim-121013.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-121013?style=for-the-badge&logo=visual-studio-code&logoColor=2BABF2)
+  ![Neovim](https://img.shields.io/badge/NeoVim-121013.svg?&style=for-the-badge&logo=neovim)
   ![Figma](https://img.shields.io/badge/-Figma-121013?style=for-the-badge&logo=figma)
 <br/>
 
