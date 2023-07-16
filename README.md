@@ -1,34 +1,36 @@
-<div align="center">
-<h1> Hello! B21 Here!.</h1> 
-</div>
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
+<h3> &nbsp; About </h3>
 
-* 🌍  Brazilian, Rio de Janeiro
-* 🖥️  Portfolio? Under construction 😁
-* 🧠  I'm learning Front-End Web Development
-* 🤝  I'm open to collaborating on anything :D
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Student of **Information Systems**.
 
+<h3> :rocket: &nbsp;My Skills </h3>
 
-<div align="center">
-  <a href="https://github.com/B21q">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B21q&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B21q&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+**Applications and Data**
+
+  ![React](https://img.shields.io/badge/-React-121013?style=for-the-badge&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-121013?style=for-the-badge&logo=react)
+  ![Nextjs](https://img.shields.io/badge/next.js-121013?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-121013?style=for-the-badge&logo=typescript)
+  ![Rust](https://img.shields.io/badge/Rust-121013?style=for-the-badge&logo=rust)
   
-<div align="center">
-  <a href="https://instagram.com/yansantos2_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yan-santos-7513a1244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**DevOps**
 
-## 🚀 Minhas Skills
+  ![Git](https://img.shields.io/badge/-Git-121013?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-121013?style=for-the-badge&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-121013?style=for-the-badge&logo=docker)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+**Development Tools**
 
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-121013?style=for-the-badge&logo=visual-studio-code)
+  ![Neovim](https://img.shields.io/badge/NeoVim-121013.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-121013?style=for-the-badge&logo=figma)
 
+<br/>
+
+<a href="https://github.com/B21q">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B21q&title_color=ffffff&icon_color=9EC49F&bg_color=121013&show_icons=true" />
+</a>
+
+<br/>
